@@ -8,3 +8,16 @@ Venison fatback pork, hamburger boudin kevin bacon shoulder. Fatback landjaeger 
 ##### See you tomorrow 
 ![This is bacon](https://heygrillhey.com/wp-content/uploads/2015/08/Homemade-Bacon-Featured.png)
 ###### This is the finale
+
+```swift
+import SwiftUI
+
+@main
+struct FakeIdeaApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
+```
